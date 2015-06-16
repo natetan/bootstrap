@@ -1,0 +1,20 @@
+.darkBG {
+	background: #999;
+}
+
+.darkerBG {
+	background: #666;
+}
+
+.darkestBG {
+	background: #333;
+}
+
+body {
+	font-family: courier;
+}
+
+image {
+	width: 540px;
+	height: auto;
+}
