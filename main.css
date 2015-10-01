@@ -3,6 +3,7 @@
 	border-radius: 5px;
 	box-shadow: 0px 0px 4px #ccc;
 	margin: 3%;
+	font-family: arial;
 }
 
 .myPanel .heading {
@@ -26,4 +27,13 @@
 
 .myPanel:hover .showOnHover {
 	display: inline-block;
+}
+
+.zach {
+	font-family: courier;
+	margin-left: 32px;
+}
+
+.zachList {
+	font-family: arial;
 }
